@@ -2,96 +2,128 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Stefan Vladusic
+    - name: Location
+      value: Toronto, ON Canada
     - name: Languages
-      value: English, German
+      value: English (Native), Serbo-Croatian (Fluent), French (Professional Working Proficiency)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master in Computational Mathematics
+      institution: University of Waterloo, waterloo, Canada
+      year: Sept 21 - Dec 22
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Co-supervised by Professors Chris Bauch and Chris Fletcher.
+        - Recipient of Keith & Debbie Geddes and Waterloo Graduate Scholarships (valued at $6,000).
+        - Graduated with 4.0/4.0 cGPA
+        - title: Coursework
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - AMATH 651 - Introduction to Dynamical Systems
+            - CM 740/CO 602/CS 795 - Fundamentals of Optimization
+            - CM 763/STAT 841 - Statistical Learning - Classification
+            - CM 750/AMATH 741/CS 778 - Numerical Solutions of Partial Differential Equations
+            - CM 770/AMATH 740/CS 770 - Numerical Analysis
+            - GEOG 652 - Climate Prediction, Modeling and Scenarios
+    - title: Master in Financial Mathematics
+      institution: McMaster University, Hamilton, Canada
+      year: Sept 20 - Aug 21
       description:
-        - Description 1.
-        - Description 2.
+        - Completed industrial research project on deriving ISDA's SIMM model from Gaussian Value-at-Risk models.
+        - Graduated with 11.875/12.0 cGPA.
+        - title: Coursework
+          contents:
+            - MFM 701 - Foundations of Financial Mathematics
+            - MFM 702 - Risk and Financial Markets
+            - MFM 703 - Computational Finance I
+            - MFM 704 - Statistics of Financial Data
+            - MFM 711 - Portfolio Theory and Optimization
+            - MFM 712 - Credit Risk Modelling
+            - MFM 713 - Computational Finance II
+            - MFM 714 - Topics in Risk Management 
+
+    - title: Physics and Philosophy Specialist (Bachelors of Science)
+      institution: University of Toronto, Toronto, Canada
+      year: Sept 15 - Jan 20
+      description:
+        - Under the supervision of Prof. Micheal Miller, completed a research project focusing on causal explanations of quantum correlations
+        - Received six $1,000 merit-based scholarships, one $2,000 grant for a humanities research position.
+        - Graduated with High Distinction and a 3.71/4.0 cGPA.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant 
+      institution: University of Waterloo, Waterloo, Canada
+      year: Sept 22 - Dec 22
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Trained hybrid CNN-LSTM neural networks to detect climate early warning signals of tipping points of Atlantic circulation.
+        - Wrote a numerical solver for low-order Atlantic circulation models.
+        - Generated a database of 500,000 time series to train and test the hybrid networks using HPC cluster.
+        - Hybrid neural networks outperform more generic state-of-the-art network in accuracy, precision, and recall (~13%, ~11.5%, ~19% improvements, respectively).
+
+    - title: Junior Data Scientist
+      institution: Praemo Inc., Kitchener, Canada
+      year: May 22 - Aug 22
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Created a production-level anomaly detection model for industrial time series data in a two-member team.
+        - Model uses a combination of machine learning clustering techniques and traditional statistical methods (bootstrapping, Levene’s test, etc.).
+        - Involved both in the formal mathematical model components, as well as the model’s implementation in Python.
+    
+    - title: Teaching Assistant
+      institution: University of Waterloo, Waterloo, Canada
+      year: Sept 21 - Apr 22
       description:
+        - Responsibilities include grading students and running office hours for first year linear algebra and introductory proof courses (MATH 115, MATH 135, and MATH 136).
+    
+    - title: Model Analyst Intern
+      institution: Bank of Nova Scotia (Scotiabank), Toronto, Canada
+      year: May 21 - Aug 21
+      description:
+      - Created and maintained data pipeline and scripts to generate reports on market trends and key risk metrics for bank portfolios. Implemented in Python, SQL and Bash.
+      - Wrote Python script that computes initial margin for large derivatives transactions with small team.
+      - Wrote reports summarizing quantitative features and limitations of exotic option pricing models for internal audits.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Programming Languages (In order of Proficiency)
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Python
+        - MATLAB
+        - R
+        - SQL
+    - title: Libraries
       items:
-        - Description 1.
-        - Description 2.
+        - TensorFlow
+        - NumPy
+        - Scikit-learn
+
+    - title: Tools
+      items:
+        - Git
+        - Bash
+        - SLURM 
+        - LaTeX
+        - Markdown
+        - Microsoft Office
+
+    - title: Technical Knowledge
+      items:
+        - Familiar with numerical methods used to solve linear systems, non-linear equations, PDEs.
+        - Familiar with regression analysis, neural networks, tree-based classifiers, time series analysis.
+
+
+# Will be included when I update my repos!
+# - title: Projects
+#  type: time_table
+#  contents:
+#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#      year: 2015-now
+#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Sound Design, Tetris, Basketball, Cycling. 
