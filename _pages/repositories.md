@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Some repositories of previous projects. This is a work in progress - expect more repos soon.
+description: Some repositories of previous projects.
 nav: true
 nav_order: 4
 ---
@@ -34,7 +34,6 @@ nav_order: 4
 {% endfor %}
 {% endif %}
 {% endif %}
-{% endcomment %}
 
 {% if site.data.repositories.github_repos %}
 
