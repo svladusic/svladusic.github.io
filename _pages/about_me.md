@@ -13,8 +13,12 @@ The research for 3D Human Modeling is both exploratory and descriptive in nature
 ##### Member Organizer
 Between March and December 2023, I was a Member Organizer at CUPE Ontario as part of the union-organizing drive for graduate TAs and RAs at the University of Waterloo. I'm happy to report that graduate TA and RA workers [overwhelmingly voted in favour of unionization](https://organizeuw.org/post/ta-ra-announcement/) in December 2023, and are now represented by [CUPE Local 5524](https://5524.wp5.cupe.ca/).   
 
+<br>
+
 ##### Junior Data Scientist
 I worked as a junior data scientist at Praemo Inc. (now part of [StreamSystems Inc.](https://streamsystems.ca/)) during my co-op term at the University of Waterloo. Between May and August of 2022, I helped develop a production-level anomaly detection model for sudden mode shifts in Industrial Internet of Things (IIoT) data.
+
+<br>
 
 ##### Audit Model Analyst  
 I also worked as an intern model audit analyst at [Scotiabank Global Banking and Markets](https://www.gbm.scotiabank.com/en.html) between May and August of 2021. There I helped review and implement pricing and margin models for quarterly internal audits.
@@ -28,13 +32,21 @@ Between September of 2021 and January of 2023, I earned a Master of Mathematics 
 
 Before earning my degree at Waterloo, I also earned a Master in Financial Mathematics at McMaster University. There, I completed an industrial research project on the relationship between Value-at-Risk models with Gaussian market processes, and [ISDA’s Standard Initial Margin Model (SIMM)](https://www.isda.org/isda-solutions-infohub/isda-simm/).
 
-I have a Bachelors of Science with High Distinction at the University of Toronto, where I completed the Physics and Philosophy Specialist program. Under the supervision of Prof. [Michael Miller](https://miller.philosophy.utoronto.ca/), I completed a research project investigating causal status of Einstein-Podolsky-Rosen correlations (if you are interested in the relationship between contemporary frameworks of causal modeling and quantum mechanics, section 7 of this [SEP article](https://plato.stanford.edu/entries/causation-physics/#CausQuanMech) provides a good summary of the literature.).
+I have a Bachelors of Science with High Distinction at the University of Toronto, where I completed the Physics and Philosophy Specialist program. Under the supervision of Prof. [Michael Miller](https://miller.philosophy.utoronto.ca/), I completed a research project investigating causal status of Einstein-Podolsky-Rosen correlations[^1].
 
 <br>
 <br>
 
 ## Outside of Work
 
-In my free time, I’m interested in making algorithmic art (I strongly recommend looking into [Creative Code Toronto](https://creativecodetoronto.github.io/) if you are in the GTA and interested in algorithmic art.). I will be participating in Genuary 2026, and am hoping to share some work on my [new blog](blog). I'm also interested in sound design. I used to spend a lot of time tinkering with various plug-ins, DAWs, and some Max. I may eventually make some sound design related posts (though there is a big gap between what one wants to do, and what actuallu one does).    
+In my free time, I’m interested in making algorithmic art[^2]. I will be participating in Genuary 2026, and am hoping to share some work on my [new blog](blog). I'm also interested in sound design. I used to spend a lot of time tinkering with various plug-ins, DAWs, and some Max. I hope to make some sound design related posts in due time.
 
 I also spend my time fermenting things (bread, mead, pickles, etc.), watching and playing basketball, and playing far too much 40 line Tetris. 
+
+<br>
+<br>
+
+#### Notes
+[^1]: If you are interested in the relationship between contemporary frameworks of causal modeling and quantum mechanics, section 7 of this [SEP article](https://plato.stanford.edu/entries/causation-physics/#CausQuanMech) provides a good summary of the literature.
+
+[^2]: I strongly recommend checking out [Creative Code Toronto](https://creativecodetoronto.github.io/) if you are in the GTA and interested in algorithmic art.
