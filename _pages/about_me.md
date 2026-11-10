@@ -2,14 +2,14 @@
 ## My Current Work
 My role as a 3D Modeling Researcher lies in the intersection of geometry processing and UX design. In general, the role involves processing 3D scan data to inform wearable product designs. 
 
-The research for 3D Human Modeling is both exploratory and descriptive in nature. The exploratory work often involves creating novel proof-of-concept geometric processing and modeling pipelines for 3D scans. The resulting scan data are statistically analyzed to help clarify observed UX issues. The descriptive work largely involves extracting statistics from 3D scan data, by way of mesh processing and computer vision techniques.   
+The research for 3D Human Modeling is both exploratory and descriptive in nature. The exploratory work often involves creating novel proof-of-concept geometric processing and modeling pipelines for 3D scans. The resulting scan data are statistically analyzed to help clarify observed UX issues. The descriptive work largely involves extracting statistics from 3D scan data, by way of mesh processing and computer vision techniques.
 <br>
 <br>
 
 ## My Previous Work 
 
 ##### Member Organizer
-Between March and December 2023, I was a Member Organizer at CUPE Ontario as part of the union-organizing drive for graduate TAs and RAs at the University of Waterloo. I'm happy to report that after many long years, graduate TA and RA workers are now represented by [CUPE Local 5524](https://5524.wp5.cupe.ca/), and have reached their [first tentative agreement](https://cupe5524.ca/2026/01/27/a-tentative-agreement-has-been-reached/) with the University.   
+Between March and December 2023, I was a Member Organizer at CUPE Ontario as part of the union-organizing drive for graduate TAs and RAs at the University of Waterloo. I'm happy to report that after many long years, graduate TA and RA workers are now represented by [CUPE Local 5524](https://5524.wp5.cupe.ca/), and have reached their [first tentative agreement](https://cupe5524.ca/2026/01/27/a-tentative-agreement-has-been-reached/) with the University.
 <br>
 
 ##### Junior Data Scientist
@@ -22,13 +22,11 @@ I also worked as an intern model audit analyst at [Scotiabank Global Banking and
 <br>
 
 ## My Education
-
 Between September of 2021 and January of 2023, I earned a Master of Mathematics in Computation Mathematics at the University of Waterloo. Under the supervision of Prof. [Chris Bauch](https://www.math.uwaterloo.ca/~cbauch/) and Prof. [Chris Fletcher](https://uwaterloo.ca/scholar/c5fletch/), I wrote a major research project about utilizing deep learning techniques to detect circulation tipping points in low-order models of the Atlantic Ocean (and the limitations thereof). You can view the project report [here](https://uwaterloo.ca/computational-mathematics/sites/default/files/uploads/documents/stefan_vladusic_-_major_research_project_updated_0.pdf).
 
 Before earning my degree at Waterloo, I also earned a Master in Financial Mathematics at McMaster University. There, I completed an industrial research project on the relationship between Value-at-Risk models with Gaussian market processes, and [ISDA’s Standard Initial Margin Model (SIMM)](https://www.isda.org/isda-solutions-infohub/isda-simm/).
 
 I have a Bachelors of Science with High Distinction at the University of Toronto, where I completed the Physics and Philosophy Specialist program. Under the supervision of Prof. [Michael Miller](https://miller.philosophy.utoronto.ca/), I completed a research project investigating causal status of Einstein-Podolsky-Rosen correlations[^1].
-
 <br>
 <br>
 
