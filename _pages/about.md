@@ -15,6 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a 3D Modeling Researcher working at BayOne Solutions on behalf of Google. Roughly speaking, I use techniques from [geometric processing](https://en.wikipedia.org/wiki/Geometry_processing) on 3D scans to assess and inform the design of earbuds and wearable technologies. I've also worked as a data scientist, a union organizer, and a financial risk analyst. You can read more about me and my past academic/work experience [here](about). 
+I'm a 3D Modeling Researcher working on behalf of Google at BayOne Solutions. Roughly speaking, I use techniques from [geometric processing](https://en.wikipedia.org/wiki/Geometry_processing) on 3D scans to assess and inform the design of earbuds and wearable technologies. I've also worked as a data scientist, a union organizer, and a financial risk analyst. You can read more about me and my past academic/work experience [here](about). 
 
-Although I haven't yet published any blogs, I will be participating in [Genuary 2026](https://genuary.art/), albeit in a limited capacity. I'm hoping to write some dev blogs explaining my inspiration and thought process for these pieces [here](blog) (though I make no guarantees that these explainers will be released in a timely manner!).
+In my free time, I’m interested in making algorithmic art, and can often be found at [Creative Code Toronto](https://creativecodetoronto.github.io/) events. I'm also interested in sound design, and used to spend a lot of time tinkering with various plug-ins, DAWs, and some Max. I hope to make some blog posts about the creative uses of coding in due time.
+
+I spend whatever remaining time fermenting things (bread, pickles, mead, etc.), watching and playing basketball, and playing too much 40 line Tetris.
