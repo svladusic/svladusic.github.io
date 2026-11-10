@@ -4,7 +4,6 @@ My role as a 3D Modeling Researcher lies in the intersection of geometry process
 
 The research for 3D Human Modeling is both exploratory and descriptive in nature. The exploratory work often involves creating novel proof-of-concept geometric processing and modeling pipelines for 3D scans. The resulting scan data are statistically analyzed to help clarify observed UX issues. The descriptive work largely involves extracting statistics from 3D scan data, by way of mesh processing and computer vision techniques.   
 <br>
-<br>
 
 ## My Previous Work 
 
@@ -19,7 +18,6 @@ I worked as a junior data scientist at Praemo Inc. (now part of [StreamSystems I
 ##### Audit Model Analyst  
 I also worked as an intern model audit analyst at [Scotiabank Global Banking and Markets](https://www.gbm.scotiabank.com/en.html) between May and August of 2021. There I helped review and implement pricing and margin models for quarterly internal audits.
 <br>
-<br>
 
 ## My Education
 
@@ -29,7 +27,6 @@ Before earning my degree at Waterloo, I also earned a Master in Financial Mathem
 
 I have a Bachelors of Science with High Distinction at the University of Toronto, where I completed the Physics and Philosophy Specialist program. Under the supervision of Prof. [Michael Miller](https://miller.philosophy.utoronto.ca/), I completed a research project investigating causal status of Einstein-Podolsky-Rosen correlations[^1].
 
-<br>
 <br>
 
 #### Notes
